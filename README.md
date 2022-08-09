@@ -7,4 +7,4 @@ Topics can include, for instance, replication problems and stratum 1 network gli
 Useful links:
   - [Stratum 1 basic documentation](https://cvmfs.readthedocs.io/en/stable/cpt-replica.html)
   - [WLCG Stratum 1 documentation](https://twiki.cern.ch/twiki/bin/view/CvmFS/StratumOnes#2_1_X_Configuration)
-  - [CVMFS server monitoring](https://github.com/cvmfs-contrib/cvmfs-servermon/blob/master/README.md) 
+  - [CVMFS server monitoring](https://github.com/cvmfs-contrib/cvmfs-servermon/blob/master/README.md) ([in CERN Grafana](https://monit-grafana.cern.ch/d/plTtqczZz/sls-details?orgId=17&var-services=cvmfs_stratum1mon))
